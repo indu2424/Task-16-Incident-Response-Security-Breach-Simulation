@@ -26,8 +26,6 @@ account were generated intentionally.
 
 # Outcome
 
-The simulation successfully demonstrated the incident response
+The simulation successfully demonstrated the incident response lifecycle and defensive controls.
 
----
-lifecycle and defensive controls.
-
+-----
